@@ -1,2 +1,2 @@
-# my-angular-storybook
+# My angular storybook and chromatic
 Storybook
